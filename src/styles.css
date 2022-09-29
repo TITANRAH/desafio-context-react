@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: "Maitree", serif;
+  text-align: center;
+  color: #43a047;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.boton{
+  padding: 1rem;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  background-color: rgb(201, 50, 50);
+  color: white;
+  box-shadow: 10px 10px 5px 5px rgba(6, 6, 6, 0.2);
+  cursor: pointer;
+}
+
+.boton:hover{
+  background-color: rgb(190, 0, 0);
+}
